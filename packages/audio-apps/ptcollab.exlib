@@ -1,0 +1,15 @@
+# Copyright 2021 Nanoni17728 <nanoni@riseup.net>
+# Distributed under te terms of the GNU General Public License v22
+
+require github
+
+SUMMARY="A collaborative sample-based piano-roll music editor"
+HOMEPAGE="https://yuxshao.github.io/ptcollab/"
+
+LICENCES="MIT"
+SLOT="0"
+
+DEPENDENCIES="
+"
+
+RESTRICT="strip"
